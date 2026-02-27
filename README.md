@@ -86,7 +86,7 @@ Toggle between two visualization modes using the buttons in the top-right corner
 | Mode | Description |
 |------|-------------|
 | **Frequencies** | Displays the frequency response of the current impulse response as a waveform |
-| **Spectrogram** | Shows a real-time spectrogram of the audio output with a cyberpunk color scheme |
+| **Spectrogram** | Shows a real-time spectrogram of the audio output |
 
 ---
 
