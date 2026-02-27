@@ -1,5 +1,7 @@
 # jAmp Convolve - User Manual
 
+![jAmp Convolve](images/convolve_ipad.jpg)
+
 ## Overview
 
 [**jAmp Convolve**](https://www.jamp-audio.com/convolve.html) is a professional audio convolution plugin (AUv3) for iOS and macOS. It uses neural network-powered impulse response generation to create realistic guitar cabinet simulations, bass cabinet simulations, and reverb effects. 
