@@ -154,14 +154,12 @@ When first launched, the app runs in demo mode:
 
 ### Purchasing
 
+![Purchase Dialog](images/convolve_iap.jpg)
+
 1. A license prompt will appear on first launch
 2. Tap **PURCHASE** to buy the full version
 3. Tap **RESTORE PURCHASE** if you've already purchased on another device
 4. Tap **CONTINUE DEMO** to continue using the demo version
-
-### Using with the Host App
-
-When the plugin is loaded within the jAmp Convolve standalone app (as the host), the license is automatically validated and demo limitations are removed.
 
 ---
 
