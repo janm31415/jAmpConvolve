@@ -10,6 +10,10 @@
 - **macOS**: macOS 11.0 or later (via Mac Catalyst)
 - Compatible with any AUv3 host application (GarageBand, Logic Pro, AUM, Cubasis, etc.)
 
+The jAmp Convolve software is distributed via the Apple App store. Click on the App store badge to go to the download location.
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/jamp-convolve/id6758905873)
+
 ---
 
 ## Getting Started
